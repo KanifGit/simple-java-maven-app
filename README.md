@@ -13,3 +13,7 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
+
+# Status
+[![Build Status](http://localhost:8080/buildStatus/icon?job=kanif-job-2)](http://localhost:8080/job/kanif-job-2/)
+[![Build Status](http://localhost:8080/job/kanif-job-2/badge/icon)](http://localhost:8080/job/kanif-job-2/)
